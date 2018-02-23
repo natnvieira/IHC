@@ -3,7 +3,9 @@
 Repositório para trabalhos que serão realizados no período de 2018.1
 
 *Gabriel Eduardo Feitosa Lima*
+
 *Natália Nunes Vieira*
+
 *Priscila de Araújo Coutinho*
 
 ## T1:
